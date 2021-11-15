@@ -1,5 +1,5 @@
 
-[![Build Status](https://dev.azure.com/ddi-test/Space%20Game%20-%20web%20-%20Workflow/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=feature%2Fhome-page-text)](https://dev.azure.com/ddi-test/Space%20Game%20-%20web%20-%20Workflow/_build/latest?definitionId=7&branchName=feature%2Fhome-page-text)
+[![Build Status](https://dev.azure.com/ddi-test/Space%20Game%20-%20web%20-%20Workflow/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=main)](https://dev.azure.com/ddi-test/Space%20Game%20-%20web%20-%20Workflow/_build/latest?definitionId=7&branchName=main)
 
 # Contributing
 
