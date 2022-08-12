@@ -35,6 +35,8 @@ steps:
 -  script: |
     set currentDrive=$(Agent.HomeDirectory)
       
+    echo currentDrive
+    
     set letter=%currentDrive:~0,1%
       
     echo %letter%
