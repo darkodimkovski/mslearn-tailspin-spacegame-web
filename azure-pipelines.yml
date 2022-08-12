@@ -2,7 +2,7 @@ trigger:
 - '*'
 
 pool:
-  vmImage: 'windows-10'
+  vmImage: 'windows-latest'
   demands:
   - npm
 
