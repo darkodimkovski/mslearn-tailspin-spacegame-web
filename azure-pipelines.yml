@@ -2,7 +2,7 @@ trigger:
 - '*'
 
 pool:
-  vmImage: 'ubuntu-20.04'
+  vmImage: 'windows'
   demands:
   - npm
 
@@ -37,9 +37,9 @@ steps:
       
     set letter=%currentDrive:~0,1%
       
-    echo letter
+    echo %letter%
 
-    echo ##vso[task.setvariable variable=agentDrive]letter
+    echo ##vso[task.setvariable variable=agentDrive]%letter%
 
 - task: CmdLine@2
   inputs:
